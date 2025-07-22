@@ -112,7 +112,9 @@ The model achieves high precision in image inference and is being fine-tuned for
 
 ## 📸 Example Output
 
-*(You can insert an image or GIF of the model's output here to visually demonstrate its capabilities.)*
+![Thread Defect Detection Example](https://github.com/SARATH062005/Thread_defect_detection/blob/main/runs/detect/predict4/Thread2.jpg)
+
+---
 
 -----
 
