@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['loop_fiber', 'protruding_fiber']
+
+roboflow:
+  workspace: university-of-minho
+  project: yarn-hairiness-loop-protruding-fibers-dataset
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/university-of-minho/yarn-hairiness-loop-protruding-fibers-dataset/dataset/2
